@@ -7,11 +7,13 @@ import Timer from './tugas12/Timer'; // Tugas 11
 function App() {
   return (
     <div className="App">
-       { /* Tugas 11 */ }
+
+      { /* Tugas 11 */ }
       {/* <HargaBuah /> */}
+
       { /* Tugas 12 */ }
-      
       <Timer waktu = {100}/>
+
     </div>
   );
 }

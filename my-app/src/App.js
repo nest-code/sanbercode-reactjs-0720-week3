@@ -2,8 +2,10 @@ import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
 //import HargaBuah from './tugas11/HargaBuah'; // Tugas 11
-import Timer         from './tugas12/Timer'; // Tugas 12
-import  TabelBuah    from './tugas13/TabelBuah'; // Tugas 13
+// import Timer         from './tugas12/Timer'; // Tugas 12
+// import  TabelBuah    from './tugas13/TabelBuah'; // Tugas 13
+import  TabelBuah    from './tugas14/TabelBuah'; // Tugas 14
+
 
 function App() {
   return (
@@ -19,6 +21,9 @@ function App() {
       {/* <Timer waktu = {100}/> */}
 
       { /* Tugas 13 */ }
+      {/* <TabelBuah/> */}
+
+      { /* Tugas 14 */ }
       <TabelBuah/>
 
     </div>
